@@ -1,0 +1,5 @@
+{
+  "best_run_id": 1,
+  "best_mean_reward": 361.8579586,
+  "algorithm": "PPO"
+}
